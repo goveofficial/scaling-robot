@@ -8,3 +8,4 @@ Einfache und intuitive Benutzeroberfläche
 Direkt über den Browser nutzbar
 🔗 Live-Version:
 Hier klicken
+https://goveofficial.github.io/scaling-robot/
